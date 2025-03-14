@@ -1,4 +1,4 @@
-# Social BERTerfly 🦋
+# social BERTerfly 🦋
 
 
 > It utilizes machine learning classifier and NLP using the state of the art language model - **BERT** (Bidirectional Encoder Representations from Transformers) to predict the personality type of the given user based on their recent tweets.
